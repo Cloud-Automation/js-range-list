@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "description": "An easy tool to optimize interval lists.",
   "main": "range-list.js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/cloud-automation/js-range-list.git"
+  },
   "scripts": {
     "test": "jasmine"
   },
